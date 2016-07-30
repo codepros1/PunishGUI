@@ -1,0 +1,8 @@
+name: PunishGUI
+main: me.benzplayz.Core
+description: Punishment Plugin
+author: BenzPlayz
+version: 1.0
+commands:
+   punish:
+      description: Punish GUI Command
